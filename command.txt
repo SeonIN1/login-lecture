@@ -10,3 +10,8 @@ npm install ejs -s
 
 -- node_modules 설치
 npm install
+
+-- nodemon
+npm install nodemon -g
+-- nodemon 서버실행 명령어
+nodemon ./bin/www.js
