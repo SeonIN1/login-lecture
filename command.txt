@@ -1,0 +1,12 @@
+-- express 설치
+npm install express -s
+-- ejs 설치
+npm install ejs -s
+
+-- package.json 생성
+1. npm init 
+2. enter 연타
+3. npm init -y --> enter 연타 필요 없음
+
+-- node_modules 설치
+npm install
