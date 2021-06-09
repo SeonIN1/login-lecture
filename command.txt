@@ -15,3 +15,6 @@ npm install
 npm install nodemon -g
 -- nodemon 서버실행 명령어
 nodemon ./bin/www.js
+
+-- bodyPaser 설치
+npm i body-parser -s
